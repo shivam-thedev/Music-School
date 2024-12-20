@@ -1,6 +1,6 @@
 # 🎵 Music School Website  
 
-A beautifully designed **Music School Website** created as a practice project using **Next.js** and **Acertinity UI**. This project focuses on the client-side capabilities of Next.js, showcasing its efficient routing and component-based architecture.
+A beautifully designed **Music School Website** created as a practice project using **Next.js** and **Aceternity UI**. This project focuses on the client-side capabilities of Next.js, showcasing its efficient routing and component-based architecture.
 
 ---
 
@@ -14,7 +14,7 @@ A beautifully designed **Music School Website** created as a practice project us
 
 ## 🛠️ Tech Stack  
 - **Framework**: [Next.js](https://nextjs.org/)  
-- **UI Library**: [Acertinity UI](https://acertinity.com/)  
+- **UI Library**: [Aceternity UI](https://ui.aceternity.com/)  
 - **Languages**: JavaScript, HTML, CSS  
 
 ---
