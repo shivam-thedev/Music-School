@@ -1,0 +1,64 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1459305272254-33a7d593a851?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Master advanced guitar skills to take your playing to the next level.",
+        "price": 149.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1535587566541-97121a128dc5?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 3,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "A beginner-friendly course to learn piano from scratch.",
+        "price": 89.99,
+        "instructor": "Emily Clark",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1470019693664-1d202d2c0907?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 4,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation from industry professionals.",
+        "price": 129.99,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1546872006-43d8f499a0e1?q=80&w=2674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 6,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "Start your journey as a drummer with essential drumming techniques.",
+        "price": 99.99,
+        "instructor": "Chris Lee",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1571327073757-71d13c24de30?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 7,
+        "title": "Vocal Training",
+        "slug": "vocal-training",
+        "description": "Enhance your singing skills with professional vocal training.",
+        "price": 109.99,
+        "instructor": "Anna White",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1614625322127-fd3d693b0992?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+}
